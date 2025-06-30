@@ -35,4 +35,34 @@ This determines where text, images, and other media will appear. It helps design
 ### 4. Functionality
 Wireframes indicate key features and interactive elements. These could be buttons, search bars, forms, or any part that the user can interact with.
 
-**Example:** A wireframe for a shopping site might show an “Add to Cart” button beneath each product.
+**Example:** A wireframe for a shopping site might show an “Add to Cart” button beneath each product. 
+
+## Types of Wireframes
+
+Wireframes come in different levels of detail. The two main types are low-fidelity and high-fidelity wireframes.
+
+### Low-Fidelity Wireframes
+
+Low-fidelity wireframes are simple, quick sketches or digital mock-ups that focus on basic layout and structure. They do not include detailed styling, colors, or images.
+
+**When to use:**  
+- Early in the design process  
+- When brainstorming or sharing initial ideas  
+- To get fast feedback without spending time on details  
+
+**Example:** A hand-drawn wireframe or a black-and-white digital sketch showing where the header, menu, and main content will go.
+
+### High-Fidelity Wireframes
+
+High-fidelity wireframes are detailed and more realistic representations of the final product. They may include specific fonts, button styles, spacing, and other visual elements.
+
+**When to use:**  
+- Later in the design process  
+- When preparing for development  
+- When presenting to stakeholders for final approval  
+
+**Example:** A wireframe that closely resembles the final UI, including colors, images, and interactive elements like dropdowns.
+
+## What Type of Wireframe is Here?
+
+For this project, the wireframes created are **low-fidelity wireframes**, as they focus on structure and layout without detailed visual styling. The goal is to define the basic placement of elements and user flow before adding design details.
